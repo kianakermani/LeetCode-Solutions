@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kianakermani/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1140-stone-game-ii](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kianakermani/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kianakermani/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kianakermani/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kianakermani/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,15 +90,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kianakermani/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -120,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kianakermani/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/kianakermani/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
